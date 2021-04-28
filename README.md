@@ -1,7 +1,7 @@
 # Machine Translation
 
 ## Project Overview
-In this project we build a deep neural network that functions as part of an end-to-end machine translation pipeline. The completed pipeline will accept English text as input and return the French translation.
+Building a deep neural network that functions as part of an end-to-end machine translation pipeline. The completed pipeline will accept English text as input and return the French translation.
 
 __Preprocess:__ Convert text to sequence of integers.
 
